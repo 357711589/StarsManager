@@ -42,6 +42,15 @@
     [httpie](https://github.com/jakubroztocil/httpie)|替代curl
     [dotfiles](https://github.com/int32bit/dotfiles)|快速配置*linux开发环境
     [zsh](https://github.com/zsh-users/zsh)|zsh
+    [docker-slim](https://github.com/docker-slim/docker-slim)|大幅度压缩docker镜像
+    [drone](https://github.com/drone/drone)|基于docker的持续集成平台
+    [pprof](https://github.com/google/pprof)|go语言性能分析工具
+    [spug](https://github.com/openspug/spug)|开源的运维管理平台
+    [go-sniffer](https://github.com/40t/go-sniffer)|直接嗅探项目数据库中的数据
+    [soar](https://github.com/XiaoMi/soar)|对sql语句进行优化建议
+    [lgo](https://github.com/yunabe/lgo)|让go像python一样交互式编程
+    [gopool](https://github.com/aosen/gopool)|go分布式连接池协程池
+    [tqdm](https://github.com/tqdm/tqdm)|python进度条库
 
 - ## 学习
     
@@ -50,10 +59,13 @@
     [AwesomeGo](https://github.com/hackstoic/golang-open-source-projects)|一些Golang开源项目 
     [Architect](https://github.com/xingshaocheng/architect-awesome)|架构师技能树
     [ProgramBooks](https://github.com/justjavac/free-programming-books-zh_CN)|免费编程书籍
+    [GolangDeveloper](https://github.com/Alikhll/golang-developer-roadmap/blob/master/i18n/ReadMe-zh-CN.md)|go语言开发者学习路线路
+    [kubernetes](https://github.com/opsnull/follow-me-install-kubernetes-cluster)|k8s集群部署教程
 
 - ## Working
     |项目名称|项目描述|
     |---|---|
+    [Kratos](https://github.com/bilibili/kratos)|bilibili开源golang微服务框架
     [PassiveScan](https://github.com/netxfly/passive_scan)|一款代理漏洞扫描工具
     [hydra](https://github.com/vanhauser-thc/thc-hydra)|密码爆破工具
     [netgraph](https://github.com/ga0/netgraph)|数据包嗅探器
