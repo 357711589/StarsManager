@@ -7,6 +7,8 @@
     [MusicBox](https://github.com/darknessomi/musicbox)|网易云音乐命令行版本
 
 - ## 导航类
+    项目名称|项目描述|
+    ---|---
     [GithubDaily](https://github.com/GitHubDaily/GitHubDaily)|Github项目整理集
     [ChromePlugin](https://github.com/357711589?tab=stars)|Chrome插件英雄榜
     [MacOSApp](https://github.com/serhii-londar/open-source-mac-os-apps)|一些免费的Mac应用
